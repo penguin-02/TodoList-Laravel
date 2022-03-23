@@ -1,0 +1,44 @@
+img{
+  margin: 0;
+  padding: 0;
+}
+
+.box1{
+  display: flex;
+  align-items: center;
+  /*width: 1110px;*/
+}
+
+.a{
+  color: tomato;
+  /*text-align: right;*/
+  /*margin-left: 800px;*/
+}
+
+.btn1{
+  text-align: right;
+  width: 76.2%;
+}
+
+.btn-add{
+  border: 0;
+  background-color: inherit;
+}
+
+.btn-add svg{
+  color: gray;
+}
+
+.edit-icon{
+  padding: 0;
+}
+
+.delete-icon{
+
+  border: 0;
+  background-color: inherit;
+}
+
+footer{
+  padding-top: auto;
+}
