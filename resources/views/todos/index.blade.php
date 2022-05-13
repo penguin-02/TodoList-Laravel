@@ -9,13 +9,13 @@
     <link href="css/style.css" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 </head>
-<body>
+<body class="bodyBox">
     <div class="container mt-3 box1">
         <img src="/image/logo.svg" alt="logo" height="70" width="200" class="logo">
-        <div class="btn1">
+        <!--<div class="btn1">
           <button type="button" class="btn btn-dark">Dark</button>
 
-        </div>
+        </div>-->
     </div>
     <div class="container mt-3">
         <div class="container mb-4">
@@ -45,6 +45,7 @@
         <table class="table">
             <thead>
                 <tr>
+                    <!--<th scope="col" style="width: 10%"></th>-->
                     <th scope="col" style="width: 60%">Todo</th>
                     <th scope="col">期限</th>
                     <th scope="col"></th>

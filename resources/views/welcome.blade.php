@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: #fafafa;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                  <img src="/image/logo.svg" alt="logo" height="100" width="440" class="logo">
                 </div>
 
                 <div class="links">
